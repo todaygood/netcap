@@ -6,7 +6,7 @@ require (
 	github.com/cilium/ebpf v0.12.3
 	github.com/cloudflare/cbpfc v0.0.0-20231012060448-992ed7573b5c
 	github.com/google/gopacket v1.1.19
-	github.com/iovisor/gobpf v0.2.0
+	github.com/iovisor/gobpf v0.2.1-0.20221005153822-16120a1bf4d4
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
